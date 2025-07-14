@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-**BHASVIC-GeorgeKerr08/BHASVIC-GeorgeKerr08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
   - 🎯 My professional goals: I have always had a strong interest in computer science and programming, so my main goal is to be working as a software or game developer, collaborating on projects with a team. There are some other sectors I am interested in, like tech support, however my final career goal is definitely a developer.
 
   - 🎓 My qualifications: GCSE Computer Science (Grade 9), 
