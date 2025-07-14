@@ -10,5 +10,7 @@
     
   - 📫 How to reach me: gkerr2357@gmail.com
   
+  - 🔗 Repositories:
 
-
+      - College Work: https://github.com/BHASVIC-CompSci/College-Work
+      - Personal Projects: https://github.com/BHASVIC-GeorgeKerr08/Personal-Projects
